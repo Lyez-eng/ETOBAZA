@@ -1,0 +1,45 @@
+{
+  "colors": ["red", "blue", "green", "purple"],
+  "sets": {
+    "red": {
+      "knives": [
+        { "name": "Karambit | Crimson Web", "img": "https://via.placeholder.com/200x100?text=Karambit+Crimson" },
+        { "name": "Bayonet | Slaughter", "img": "https://via.placeholder.com/200x100?text=Bayonet+Slaughter" }
+      ],
+      "gloves": [
+        { "name": "Sport Gloves | Scarlet Web", "img": "https://via.placeholder.com/200x100?text=Scarlet+Web" },
+        { "name": "Moto Gloves | Blood Pressure", "img": "https://via.placeholder.com/200x100?text=Blood+Pressure" }
+      ]
+    },
+    "blue": {
+      "knives": [
+        { "name": "Flip Knife | Doppler Sapphire", "img": "https://via.placeholder.com/200x100?text=Doppler+Sapphire" },
+        { "name": "Gut Knife | Blue Steel", "img": "https://via.placeholder.com/200x100?text=Blue+Steel" }
+      ],
+      "gloves": [
+        { "name": "Sport Gloves | Pandora's Box", "img": "https://via.placeholder.com/200x100?text=Pandora's+Box" },
+        { "name": "Moto Gloves | Cool Mint", "img": "https://via.placeholder.com/200x100?text=Cool+Mint" }
+      ]
+    },
+    "green": {
+      "knives": [
+        { "name": "M9 Bayonet | Forest DDPAT", "img": "https://via.placeholder.com/200x100?text=Forest+DDPAT" },
+        { "name": "Huntsman Knife | Boreal Forest", "img": "https://via.placeholder.com/200x100?text=Boreal+Forest" }
+      ],
+      "gloves": [
+        { "name": "Hydra Gloves | Emerald", "img": "https://via.placeholder.com/200x100?text=Emerald" },
+        { "name": "Wraps | Turtle Shell", "img": "https://via.placeholder.com/200x100?text=Turtle+Shell" }
+      ]
+    },
+    "purple": {
+      "knives": [
+        { "name": "Shadow Daggers | Ultraviolet", "img": "https://via.placeholder.com/200x100?text=Ultraviolet" },
+        { "name": "Falchion Knife | Night", "img": "https://via.placeholder.com/200x100?text=Night" }
+      ],
+      "gloves": [
+        { "name": "Sport Gloves | Vice", "img": "https://via.placeholder.com/200x100?text=Vice" },
+        { "name": "Moto Gloves | Purple Haze", "img": "https://via.placeholder.com/200x100?text=Purple+Haze" }
+      ]
+    }
+  }
+}
