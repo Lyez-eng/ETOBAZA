@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Генератор сета ножа и перчаток</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🎮 Генератор сета ножа и перчаток</h1>
+  <select id="color"></select>
+  <button onclick="generateSet()">Сгенерировать</button>
+  <button onclick="copySet()">📋 Скопировать сет</button>
+
+  <div id="result">
+    <p>Выберите цвет и нажмите кнопку</p>
+  </div>
+
+  <div id="history">
+    <h2>📜 История генераций</h2>
+    <ul id="historyList"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
